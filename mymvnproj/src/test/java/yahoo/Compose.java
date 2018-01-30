@@ -23,7 +23,8 @@ public class Compose extends MainClass
 	  driver.findElement(By.id("Subj")).sendKeys("hello");
 	  driver.findElement(By.name("Content")).sendKeys("this is sample mail");
 	  driver.findElement(By.id("send_top")).click();
-	  System.out.println("Hello test suresh");
+	  System.out.println("Hello test suresh sdf");
+	  
   }
   public void signout()
   {
