@@ -7,5 +7,9 @@ public class Sample
 	{
 		System.out.println("update data");
 	}
+	public void data()
+	{
+		
+	}
   
 }
